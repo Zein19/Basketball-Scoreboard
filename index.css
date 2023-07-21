@@ -3,6 +3,11 @@
     src: url(CursedTimerUlil-Aznm.ttf);
 }
 
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
 body {
     margin: 0;
     text-align: center;
@@ -16,7 +21,7 @@ body {
 }
 
 .column{
-    margin-top: 6em;
+    margin-top: 0;
 }
 
 .column+.column{
